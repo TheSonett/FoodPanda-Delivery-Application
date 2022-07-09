@@ -24,8 +24,8 @@ export const Main = () => {
 }
 
 
-const getCurrentScreen = (tab) => {
-    switch(tab) {
+const getCurrentScreen = (activeTab) => {
+    switch(activeTab) {
         case "Delivery":
             return <Delivery/>
         case "Dining Out":
