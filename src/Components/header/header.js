@@ -21,7 +21,7 @@ function Header() {
           </div>
           <div className='location-search-separator'></div>
           <div className='header-searchBar'>
-            <i className='fi fi-rr-search absolute-center search-icon'></i>
+          <i className='fi fi-rr-caret-down absolute-center search-icon'></i>
             <input placeholder='Search for restaurant, cuisine or a dish' className='search-input'/>
           </div>
         </div>
