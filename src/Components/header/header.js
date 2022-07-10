@@ -5,7 +5,7 @@ import './header.css';
 function Header() {
   return (
     <div className='max-width header'>
-      <img src='https://cdn.looka.com/images/logos/looka_logo_black.svg' 
+      <img src='https://www.foodpanda.com/wp-content/uploads/2019/12/food-panda-logo-vector.png' 
       alt='Failed to load the image!' 
       className='header-logo'
       />

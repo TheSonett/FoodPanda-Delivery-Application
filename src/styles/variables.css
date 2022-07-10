@@ -3,8 +3,10 @@
     --border-white: rgb(232, 232, 232);
     --primary-bg: rgb(255, 255, 255);
     --location-text-color: #828282;
-    --location-red: #ff7e8b;
+    --location-red: rgb(238,44,130);
     --gray: rgb(207, 207, 207);
     --inactive-text-color: #696969;
     --filter-text-color: #9c9c9c;
+    --heading-text-color: #1c1c1c;
+    --collection-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
 }
