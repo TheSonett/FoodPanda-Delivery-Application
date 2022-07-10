@@ -2,6 +2,8 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div>Made with 🔥 by Joy Saha</div>
+    <div className='absolute-center'>
+      Made with 💖 by Joy Saha
+    </div>
   )
 }

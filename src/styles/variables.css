@@ -9,8 +9,12 @@
     --filter-text-color: #9c9c9c;
     --heading-text-color: #1c1c1c;
     --collection-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
-    --inactive-color: #cecece;
+    --inactive-color: #f8f8f8;
     --tag-red: rgb(217, 38, 98);
     --tag-blue: rgb(37, 111, 239);
     --tag-green: #267E3E;
+    --res-color: #c0bebe;
+    --collection-text-color: #363636;
+    --zmt-red: #FF7E8B;
+    --bg-gradient: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.05) 85%);
 }
