@@ -9,4 +9,8 @@
     --filter-text-color: #9c9c9c;
     --heading-text-color: #1c1c1c;
     --collection-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+    --inactive-color: #cecece;
+    --tag-red: rgb(217, 38, 98);
+    --tag-blue: rgb(37, 111, 239);
+    --tag-green: #267E3E;
 }
