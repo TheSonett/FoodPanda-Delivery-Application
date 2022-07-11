@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className='max-width header'>
       <img src='https://www.foodpanda.com/wp-content/uploads/2019/12/food-panda-logo-vector.png' 
-      alt='Failed to load the image!' 
+      alt='Failed!' 
       className='header-logo'
       />
 
@@ -21,7 +21,7 @@ function Header() {
           </div>
           <div className='location-search-separator'></div>
           <div className='header-searchBar'>
-          <i className='fi fi-rr-caret-down absolute-center search-icon'></i>
+            <i class="fi fi-rs-search absolute-center search-icon"></i>
             <input placeholder='Search for restaurant, cuisine or a dish' className='search-input'/>
           </div>
         </div>
@@ -30,7 +30,7 @@ function Header() {
             alt='Failed to load!'
             className='header-profile-image'
           />
-          <div className='header-username'>Joy</div>
+          <div className='header-username'>Joy Saha</div>
           <i className='fi fi-rr-angle-small-down absolute-center profile-options-icon'></i>
         </div>
       </div>

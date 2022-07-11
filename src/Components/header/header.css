@@ -6,9 +6,10 @@
 }
 
 .header-logo {
-    height: 27px;
+    height: 40px;
     max-width: 140px;
     margin-right: 24px;
+    max-width: 250px;
 }
 
 .header-right {
@@ -62,6 +63,7 @@
     font-size: 20px;
     color: var(--location-text-color);
     margin: 0px 12px;
+    padding: 0px 10px;
 }
 
 .search-input {

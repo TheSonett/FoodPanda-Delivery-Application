@@ -3,11 +3,12 @@
     padding: 10px;
     border-radius: 15px;
     border: 1px solid transparent;
+    transition: 0.15s ease-in-out;
 }
 
 .explore-card:hover {
     background-color: var(--primary-bg);
-    border: 1px solid var(--border-white);
+    border: 1px solid var(--gray);
 }
 
 .explore-card-cover {

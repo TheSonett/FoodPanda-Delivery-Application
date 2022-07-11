@@ -45,7 +45,7 @@ const Delivery = () => {
       </div>
       <DeliveryCollections/>
       <TopBrands/>
-      <ExploreSection List={restaurantlist} collectionName='Delivery Restaurants in Kolkata'/>
+      <ExploreSection List={restaurantlist} collectionName='Order food online in Jatragachi, Rajarhat'/>
     </div>
   )
 }

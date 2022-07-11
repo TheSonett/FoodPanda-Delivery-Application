@@ -12,15 +12,15 @@
 }
 
 .tab-name {
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 600;
     margin-left: 10px;
     color: var(--inactive-text-color);
 }
 
 .tab-image-container {
     height: 50px;
-    width: 100px;
+    width: 120px;
 }
 
 .tab-image {

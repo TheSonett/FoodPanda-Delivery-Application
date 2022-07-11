@@ -9,7 +9,7 @@ const Filters = ({filterList}) => {
             filterList && filterList.map((filter) => {
                 return (
                     <div>
-                        <FilterItems filter={filter} key={filter.id}/>
+                        <FilterItems className='filter-items' filter={filter} key={filter.id}/>
                     </div>
                 )
             })

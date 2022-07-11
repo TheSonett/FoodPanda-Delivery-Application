@@ -3,16 +3,15 @@
 }
 
 .top-brands-cover {
-    height: 150px;
-    width: 150px;
-    border-radius: 30%;
+    height: 210px;
+    width: 210px;
     background-color: var(--primary-bg);
     box-shadow: var(--collection-shadow);
 }
 
 .top-brands-cover-image {
-    border-radius: inherit;
     height: 100%;
     width: 94%;
+    padding: 10px 10px;
     object-fit: cover;
 }
